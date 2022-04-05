@@ -4,6 +4,6 @@
 - 📫 How to reach me : mtruesda@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
-\n
+[\n]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
 
