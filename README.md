@@ -4,7 +4,7 @@
 - 👀 I’m interested in working on software development projects.
 - 🌱 I’m currently learning ruby, ocaml, and rust.
 - 📫 How to reach me : mtruesda@gmail.com
-- 💻 I recently moved from Windows to Arch Linux!
+- 💻 I run Mac and Ubuntu!
 
 # Current Projects:
 I'm a little stretched at this time with coursework but some of the projects I plan to work on are listed below.
