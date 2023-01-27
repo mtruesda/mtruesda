@@ -14,6 +14,8 @@ I'm a little stretched at this time with coursework but some of the projects I p
   I plan to recreate an old retro game that I made using Python in high school and optimize my old code a little.
 - Siteproject:
   This project is quite open-ended as I haven't quite decided what direction I want to take it. I just wanted to learn some javascript.
+- MusicBot:
+  A Bot intended to locally replace the voice bots that Youtube has recently shut down on discord.
 
 # Account Statistics
 
