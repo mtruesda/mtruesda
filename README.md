@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mtruesda or Myron
 - 👀 I’m interested in working on software development projects.
-- 🌱 I’m currently learning ruby, ocaml, and rust.
+- 🌱 I’m currently working with C, Haskell, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
 - 💻 I run Mac and Ubuntu!
 
