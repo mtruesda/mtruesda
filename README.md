@@ -4,7 +4,7 @@
 - 👀 I’m interested in working on software development projects.
 - 🌱 I’m currently working with C, Haskell, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
-- 💻 I run Mac and Ubuntu!
+- 💻 I run Mac Ventura and Ubuntu 22!
 
 # Current Projects:
 I'm a little stretched at this time with coursework but some of the projects I plan to work on are listed below.
