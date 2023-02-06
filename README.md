@@ -4,7 +4,7 @@
 - 👀 I’m interested in working on software development projects.
 - 🌱 I’m currently working with C, Haskell, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
-- 💻 I run Mac Ventura and Ubuntu 22!
+- 💻 I run Mac Ventura and PopOS! I used to run Manjaro and then Ubuntu as well before moving to PopOS.
 
 # Current Projects:
 I'm a little stretched at this time with coursework but some of the projects I plan to work on are listed below.
@@ -16,6 +16,7 @@ I'm a little stretched at this time with coursework but some of the projects I p
   This project is quite open-ended as I haven't quite decided what direction I want to take it. I just wanted to learn some javascript.
 - MusicBot:
   A Bot intended to locally replace the voice bots that Youtube has recently shut down on discord.
+
 
 # Account Statistics
 
