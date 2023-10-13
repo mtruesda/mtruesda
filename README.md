@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mtruesda or Myron
 - 👀 I’m interested in working on software development projects.
-- 🌱 I’m currently working with C, Haskell, and Assembly
+- 🌱 I’m currently working with C, C++, Python, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
 - 💻 I run Mac Ventura and PopOS! I used to run Manjaro and then Ubuntu as well before moving to PopOS.
 
