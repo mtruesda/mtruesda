@@ -4,7 +4,7 @@
 - 👀 I’m interested in working on software development projects.
 - 🌱 I’m currently working with C, C++, Python, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
-- 💻 I run Mac Ventura and PopOS! I used to run Manjaro and then Ubuntu as well before moving to PopOS.
+- 💻 I moved from PopOS back to strictly developing on Mac!
 
 # Current Projects:
 I'm a little stretched at this time with coursework but some of the projects I plan to work on are listed below.
