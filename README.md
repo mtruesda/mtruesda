@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m @mtruesda or Myron
 - 👀 I’m interested in working on software development and data engineering/science projects.
-- 🌱 I’m currently working with C, C++, Python, and Assembly
+- 🌱 I’m currently working with C, Javascript, Python, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
 - 💻 I moved from PopOS back to strictly developing on Mac!
 
