@@ -12,9 +12,7 @@ I'm a little stretched at this time with coursework but some of the projects I p
 
 # GitHub Stats
 
-<picture>
-  <img src="https://github-readme-stats-mtruesda.vercel.app/api?username=mtruesda&show_icons=true" />
-</picture>
+
 
 # GitHub Activity
 
