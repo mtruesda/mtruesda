@@ -23,6 +23,4 @@ I'm a little stretched at this time with coursework but some of the projects I p
   <img src="https://github-readme-stats-mtruesda.vercel.app/api/top-langs/?username=mtruesda&layout=compact" />
 </picture>
 
-//[![Top Langs](https://github-readme-stats-mtruesda.vercel.app/api/top-langs/?username=mtruesda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 *As a note, this graph will only include languages that are in* ***public*** *repositories*
