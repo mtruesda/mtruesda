@@ -10,12 +10,15 @@
 I'm a little stretched at this time with coursework but some of the projects I plan to work on are listed below.
 - Data Science Project / Analysis: I intend to put together a project in which I take a dataset from a site like Kaggle that has data on traffic violations across the states (if I can find one, otherwise I may need to stick to one state or do data scraping) and then visualize it using tools such as python dash. Afterwards I'll include conclusions or notable things that I find using the data.
 
-# GitHub Stats
 
+# Account Statistics
 
+<picture>
+  <img src="https://github-readme-stats-mtruesda.vercel.app/api?username=mtruesda&show_icons=true" />
+</picture>
 
-# GitHub Activity
+# Language Statistics
 
-<!--START_SECTION:activity-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtruesda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *As a note, this graph will only include languages that are in* ***public*** *repositories*
