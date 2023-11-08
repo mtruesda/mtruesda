@@ -11,14 +11,16 @@ I'm a little stretched at this time with coursework but some of the projects I p
 - Data Science Project / Analysis: I intend to put together a project in which I take a dataset from a site like Kaggle that has data on traffic violations across the states (if I can find one, otherwise I may need to stick to one state or do data scraping) and then visualize it using tools such as python dash. Afterwards I'll include conclusions or notable things that I find using the data.
 
 
-# Account Statistics
-
-[![Anurag's GitHub stats](https://github-readme-stats-git-master-mtruesda.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
-
-# Language Statistics
-
-// github-readme-stats-git-master-mtruesda.vercel.app
-
-[![Top Langs](https://github-readme-stats-git-master-mtruesda.vercel.app/api/top-langs/?username=mtruesda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
 
 *As a note, this graph will only include languages that are in* ***public*** *repositories*
