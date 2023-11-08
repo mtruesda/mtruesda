@@ -17,6 +17,8 @@ I'm a little stretched at this time with coursework but some of the projects I p
 
 # Language Statistics
 
+// github-readme-stats-git-master-mtruesda.vercel.app
+
 [![Top Langs](https://github-readme-stats-git-master-mtruesda.vercel.app/api/top-langs/?username=mtruesda&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 *As a note, this graph will only include languages that are in* ***public*** *repositories*
