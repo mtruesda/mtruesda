@@ -13,7 +13,7 @@ I'm a little stretched at this time with coursework but some of the projects I p
 
 # Account Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-git-master-mtruesda.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
 
 # Language Statistics
 
