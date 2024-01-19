@@ -4,7 +4,7 @@
 - 👀 I’m interested in working on software development and data engineering/science projects.
 - 🌱 I’m currently working with C, Javascript, Python, and Assembly
 - 📫 How to reach me : mtruesda@gmail.com
-- 💻 I moved from PopOS back to strictly developing on Mac!
+- 💻 I moved from PopOS back to strictly developing on Mac but I've developed on Windows and Linux as well! I just prefer the Unix operating systems.
 
 # Current Projects:
 A few of the projects I've got going are below:
