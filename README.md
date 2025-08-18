@@ -5,7 +5,7 @@
 - 🌱 I’m currently working with C++ and Python
 - 📫 How to reach me : mtruesda@gmail.com
 - 👔 Add me on LinkedIn: https://www.linkedin.com/in/myron-truesdale-9402a61b3/
-- 💻 I develop on Windows, Mac, and Linux! There's a lot going on!
+- 💻 I develop on Windows, Mac, and Linux
 
 # Current Projects:
 A few of the projects I've got going are below:
