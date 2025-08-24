@@ -1,7 +1,7 @@
 # About Me:
 
 - 👋 Hi, I’m @mtruesda or Myron
-- 👀 I’m interested in working on software development and VR projects
+- 👀 I’m interested in doing software development on graphics and VR projects
 - 🌱 I’m currently working with C++ and Python
 - 📫 How to reach me : mtruesda@gmail.com
 - 👔 Add me on LinkedIn: https://www.linkedin.com/in/myron-truesdale-9402a61b3/
