@@ -18,6 +18,9 @@ As a note: most of my projects are private. If you'd like to learn more about a 
 
 # Language Statistics
 
+[![mtruesda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <picture>
   <img src="https://github-readme-stats-mtruesda.vercel.app/api/top-langs/?username=mtruesda&layout=compact" />
 </picture>
