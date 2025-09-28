@@ -18,11 +18,6 @@ As a note: most of my projects are private. If you'd like to learn more about a 
 
 # Language Statistics
 
-
-<picture>
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=mtruesda&layout=compact" />
-</picture>
-
 <img src="https://github-readme-stats-sigma-ashy.vercel.app/api/top-langs/?username=mtruesda&layout=compact" />
 
 *As a note, this graph will only include languages that are in* ***public*** *repositories*
