@@ -7,6 +7,8 @@
 - 👔 Add me on LinkedIn: https://www.linkedin.com/in/myron-truesdale-9402a61b3/
 - 💻 I develop on Windows, Mac, and Linux
 
+- Check out my <a src="mtruesda.github.io">website</a>!
+
 # Current Projects:
 A few of the projects I've got going are below:
 - Computer Vision Repo: A collection of proof of concept Computer vision projects written in C++ and Python.
