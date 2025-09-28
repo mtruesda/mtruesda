@@ -18,8 +18,6 @@ As a note: most of my projects are private. If you'd like to learn more about a 
 
 # Language Statistics
 
-[![mtruesda's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtruesda)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <picture>
   
