@@ -4,7 +4,7 @@
 - 👀 I’m interested in doing software development on graphics and VR projects
 - 🌱 I’m currently working with C++ and Python
 - 📫 How to reach me : mtruesda@gmail.com
-- 👔 Add me on LinkedIn: https://www.linkedin.com/in/myron-truesdale-9402a61b3/
+- 👔 Add me on [LinkedIn](https://www.linkedin.com/in/myron-truesdale-9402a61b3/)
 - 💻 I develop on Windows, Mac, and Linux
 
 - Check out my [website!](https://mtruesda.github.io "https://mtruesda.github.io")
