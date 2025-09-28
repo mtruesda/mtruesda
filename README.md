@@ -7,7 +7,7 @@
 - 👔 Add me on LinkedIn: https://www.linkedin.com/in/myron-truesdale-9402a61b3/
 - 💻 I develop on Windows, Mac, and Linux
 
-- Check out my [website]: mtruesda.github.io
+- Check out my [website!](https://mtruesda.github.io "https://mtruesda.github.io")
 
 # Current Projects:
 A few of the projects I've got going are below:
