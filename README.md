@@ -11,6 +11,7 @@
 
 # Current Projects:
 A few of the projects I've got going are below:
+- Homebrew 6-DOF Airframe
 - Computer Vision Repo: A collection of proof of concept Computer vision projects written in C++ and Python.
 - Data Science Project / Analysis: I intend to put together a project in which I take a dataset from a site like Kaggle that has data on traffic violations across the states (if I can find one, otherwise I may need to stick to one state or do data scraping) and then visualize it using tools such as python dash. Afterwards I'll include conclusions or notable things that I find using the data.
 
