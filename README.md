@@ -1,8 +1,8 @@
 # About Me:
 
-- 👋 Hi, I’m @mtruesda or Myron
+- 👋 My name is Myron Truesdale
 - 👀 I’m interested in doing software development on graphics and VR projects
-- I'm currently in a graduate program focusing on Computer Vision through Georgia Tech that takes up most of my project time
+- 🎓 I'm currently in a graduate program focusing on Computer Vision through Georgia Tech that takes up most of my project time
 - 🌱 I’m currently working with C++, Java, and Python
 - 📫 How to reach me : mtruesda@gmail.com
 - 👔 Add me on [LinkedIn](https://www.linkedin.com/in/myron-truesdale-9402a61b3/)
